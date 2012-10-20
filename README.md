@@ -54,12 +54,17 @@ I try to write succinct code that are self explanatory. For example,
       puts remark
     end
 
-I have done project management. My motto for dev team code are,
+Having done project management before, my motto for dev team code contributions are,
 
 * To *understand* - write code that's easy to read and understand
 * To *instruct* - provide good documentation
 * To *scale* - good tests coverage and architectural decisions
 
+I was an avid Ubuntu + netbook user till I switched to the Macbook Air. These days I code only on OSX with screen sessions. For text editing I toggle between Vim and Sublime Text 2.
+
+My design skills suck, thankfully Twitter bootstrap made front end look decent. I've done Javascript but wouldn't profess to be an expert. Most recently, I've been trying to use Ember.js for a project that I'm working on.
+
+I'm currently working as a lead developer in Tailored Inc. Feel free to [get in touch with me] (velvetpd@gmail.com) for help with rails. You can see all my latest works at my [website] (http://velvetpd.info)
 
 ## My Music
 
