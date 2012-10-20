@@ -64,9 +64,11 @@ I was an avid Ubuntu + netbook user till I switched to the Macbook Air. These da
 
 My design skills suck, thankfully Twitter bootstrap made front end look decent. I wouldn't profess to be a Javascript expert but decent experience using it and can get things working. Most recently, I've been trying to use Ember.js for a project that I'm working on.
 
-I'm currently working as a lead developer in Tailored Inc. Feel free to [get in touch with me] (velvetpd@gmail.com) for help with rails. You can see all my latest works at my [website] (http://velvetpd.info)
+I'm currently working as a lead developer in Tailored Inc and am based in Palo Alto, California. Feel free to [get in touch with me] <velvetpd@gmail.com> for help with rails. You can see all my latest works at my [website] (http://velvetpd.info)
 
 ## My Music
+
+I've got a long history with music. Played in many bands and outfits and joined one too many band competitions. Have done studio work and am familiar with audio production tools. My current tool of choice is a Presonus Studio One with Audiobox, a Fender Telecaster and a Fender G-DEC amp. I'm most comfortable when I'm on stage with a bunch of good musicians. Sometimes I post stuff on [Soundcloud] (http://soundcloud.com/jasonong). These days you're better off watching me play in [church] (http://c3sv.com).
 
 ## My Values
 
