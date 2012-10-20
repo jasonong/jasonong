@@ -62,7 +62,7 @@ Having done project management before, my motto for dev team code contributions 
 
 I was an avid Ubuntu + netbook user till I switched to the Macbook Air. These days I code only on OSX with screen sessions. For text editing I toggle between Vim and Sublime Text 2.
 
-My design skills suck, thankfully Twitter bootstrap made front end look decent. I've done Javascript but wouldn't profess to be an expert. Most recently, I've been trying to use Ember.js for a project that I'm working on.
+My design skills suck, thankfully Twitter bootstrap made front end look decent. I wouldn't profess to be a Javascript expert but decent experience using it and can get things working. Most recently, I've been trying to use Ember.js for a project that I'm working on.
 
 I'm currently working as a lead developer in Tailored Inc. Feel free to [get in touch with me] (velvetpd@gmail.com) for help with rails. You can see all my latest works at my [website] (http://velvetpd.info)
 
