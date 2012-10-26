@@ -11,6 +11,10 @@ I'm a software engineer from Singapore. A self taught programmer upon graduating
 
 ## Life As A Developer
 
+[Most programmers are either a hacker, engineer or a scientist](http://jasonong.tumblr.com/post/33453791906/hackers-engineers-and-scientists).
+
+I'm an engineer. 
+
 Peter Bohm drilled in me Test Driven Development in 2007 and has changed my life as an engineer. These days I test in Rspec. I'm strict on covering methods in models and modules and lesser on controllers and views which in my opinion might be better dealt with later with integration tests.
 
 I try to write succinct code that are self explanatory. For example,
