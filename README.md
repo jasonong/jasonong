@@ -22,7 +22,9 @@ I try to write good code by:
 * write tests first which helps me think through its design
 * writing succinct code that are self explanatory. [Here's an example] (https://github.com/jasonong/jasonong/tree/master/style)
 
-Having done quite a fair bit of web apps, I'm trying to [log down patterns that I've discovered] (https://github.com/jasonong/Rails-Patterns). It is still a work in progress.
+I enjoy building apps and have done quite a fair bit of them. You can see [all my latest works here] (http://velvetpd.info).
+
+I subscribed to thoughtful conventions. [Here, I'm trying to log down patterns that I've discovered] (https://github.com/jasonong/Rails-Patterns). It is still a work in progress.
 
 Having done project management before, my motto for dev team code contributions are,
 
@@ -34,7 +36,7 @@ I was an avid Ubuntu + netbook user till I switched to the Macbook Air. These da
 
 My design skills suck, thankfully Twitter bootstrap made front end look decent. I wouldn't profess to be a Javascript expert but decent experience using it and can get things working. Most recently, I've been trying to use Ember.js for a project that I'm working on.
 
-I'm currently working as a lead developer in Tailored Inc and am based in Palo Alto, California. Feel free to [get in touch with me] <velvetpd@gmail.com> for help with rails. You can see [all my latest works at my website] (http://velvetpd.info)
+I'm currently working as a lead developer in Tailored Inc and am based in Palo Alto, California. Feel free to [get in touch with me] <velvetpd@gmail.com> for help with rails.
 
 ## My Music
 
