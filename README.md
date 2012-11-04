@@ -17,47 +17,10 @@ I'm an engineer.
 
 Peter Bohm drilled in me Test Driven Development in 2007 and has changed my life as an engineer. These days I test in Rspec. I'm strict on covering methods in models and modules and lesser on controllers and views which in my opinion might be better dealt with later with integration tests.
 
-I try to write succinct code that are self explanatory. For example,
-
-    # This is hard to understand
-    def do_something(foo)
-      bar = case foo
-      when baz
-        'a'
-      when quz
-        'b'
-      else
-        'c'
-      end
-
-      if bar == 'a'
-        puts 'Excellent'
-      else
-        puts 'Poor'
-      end
-    end
-
-    # This is self explantory
-    def do_something(foo)
-      bar = translate_foo_to_score(foo)
-      humanize_score(bar)
-    end
-
-    def translate_foo_to_score(foo)
-      case foo
-      when 'baz'
-        'a'
-      when 'quz'
-        'b'
-      else
-        'c'
-      end
-    end
-
-    def humanize_score(bar)
-      remark =  bar == 'a' ? 'Excellent' : 'Poor'
-      puts remark
-    end
+I try to write good code by:
+* google up an existing solution as there's no need to reinvent the wheel
+* write tests first which helps me think through its design
+* writing succinct code that are self explanatory. [Here's an example] (/style)
 
 Having done project management before, my motto for dev team code contributions are,
 
