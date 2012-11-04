@@ -13,7 +13,7 @@ I'm a software engineer from Singapore. A self taught programmer upon graduating
 
 [Most programmers are either a hacker, engineer or a scientist](http://jasonong.tumblr.com/post/33453791906/hackers-engineers-and-scientists).
 
-I'm an engineer. 
+I'm an engineer.
 
 Peter Bohm drilled in me Test Driven Development in 2007 and has changed my life as an engineer. These days I test in Rspec. I'm strict on covering methods in models and modules and lesser on controllers and views which in my opinion might be better dealt with later with integration tests.
 
@@ -69,7 +69,7 @@ I was an avid Ubuntu + netbook user till I switched to the Macbook Air. These da
 
 My design skills suck, thankfully Twitter bootstrap made front end look decent. I wouldn't profess to be a Javascript expert but decent experience using it and can get things working. Most recently, I've been trying to use Ember.js for a project that I'm working on.
 
-I'm currently working as a lead developer in Tailored Inc and am based in Palo Alto, California. Feel free to [get in touch with me] <velvetpd@gmail.com> for help with rails. You can see all my latest works at my [website] (http://velvetpd.info)
+I'm currently working as a lead developer in Tailored Inc and am based in Palo Alto, California. Feel free to [get in touch with me] <velvetpd@gmail.com> for help with rails. You can see [all my latest works at my website] (http://velvetpd.info)
 
 ## My Music
 
