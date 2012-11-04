@@ -1,5 +1,6 @@
 ## November 3 2012
 
+* config.log_tags (Rails config)
 * ActiveSupport::Concern
 * bcx-api
 * Underscore.js
