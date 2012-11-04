@@ -22,6 +22,8 @@ I try to write good code by:
 * write tests first which helps me think through its design
 * writing succinct code that are self explanatory. [Here's an example] (https://github.com/jasonong/jasonong/tree/master/style)
 
+Having done quite a fair bit of web apps, I'm trying to [log down patterns that I've discovered] (https://github.com/jasonong/Rails-Patterns). It is still a work in progress.
+
 Having done project management before, my motto for dev team code contributions are,
 
 * To *understand* - write code that's easy to read and understand
