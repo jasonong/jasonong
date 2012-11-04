@@ -20,7 +20,7 @@ Peter Bohm drilled in me Test Driven Development in 2007 and has changed my life
 I try to write good code by:
 * google up an existing solution as there's no need to reinvent the wheel
 * write tests first which helps me think through its design
-* writing succinct code that are self explanatory. [Here's an example] (/style)
+* writing succinct code that are self explanatory. [Here's an example] (https://github.com/jasonong/jasonong/tree/master/style)
 
 Having done project management before, my motto for dev team code contributions are,
 
