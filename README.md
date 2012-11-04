@@ -41,6 +41,7 @@ I try to write succinct code that are self explanatory. For example,
     def do_something(foo)
       bar = translate_foo_to_score(foo)
       humanize_score(bar)
+    end
 
     def translate_foo_to_score(foo)
       case foo
