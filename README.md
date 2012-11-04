@@ -36,7 +36,7 @@ I was an avid Ubuntu + netbook user till I switched to the Macbook Air. These da
 
 My design skills suck, thankfully Twitter bootstrap made front end look decent. I wouldn't profess to be a Javascript expert and have decent knowledge and experience using it. Most recently, I've been trying to use Ember.js for a project that I'm working on.
 
-I'm currently working as a lead developer in Tailored Inc and am based in Palo Alto, California. Feel free to [get in touch with me] <velvetpd@gmail.com> for help with rails.
+I'm currently working as a lead developer in Tailored Inc and am based in Palo Alto, California. Feel free to get in touch with me at <velvetpd@gmail.com> for anything pertaining rails.
 
 ## My Music
 
