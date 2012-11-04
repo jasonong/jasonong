@@ -1,5 +1,6 @@
 ## November 3 2012
 
+* ActiveSupport::Concern
 * bcx-api
 * Underscore.js
 * Zepto.js
