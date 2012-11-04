@@ -46,4 +46,4 @@ I've got a long history with music. Played in many bands and outfits and joined 
 
 I'm purposed driven and work hard towards my goal. I enjoy helping people reach their dreams. I don't work for money but see it as a necessary tool to get things done. I believe one doesn't need a lot of money to be happy and free but rather having a debt free lifestyle. I make decisions based on people and not over products/objects/events. I believe in God and am counting on Him to lead the way.
 
-If you're gotten this far, thanks for reading. Would love to know you better. Feel free to contact me at <velvetpd@gmail.com> or [my twitter] (http://twitter.com/jasonong). I'm pretty responsive by email. If I don't please understand that I might be busy and will take a while.
+If you're gotten this far, thanks for reading. Would love to know you better. Feel free to contact me at <velvetpd@gmail.com> or at [my twitter handle] (http://twitter.com/jasonong). I'm pretty responsive by email. If I don't please understand that I might be busy and will take a while.
