@@ -1,7 +1,8 @@
 ## November 5 2012
 
+* [campfire cheatsheet](http://cheat.errtheblog.com/s/campfire/)
 * [recommended CSS categories](http://smacss.com/book/categorizing)
-* global .gitignore
+* [global .gitignore](https://help.github.com/articles/ignoring-files)
 * http://smacss.com/book
 
 ## November 4 2012
