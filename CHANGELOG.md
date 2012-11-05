@@ -1,3 +1,8 @@
+## November 5 2012
+
+* global .gitignore
+* http://smacss.com/book
+
 ## November 4 2012
 
 * Backbone.js for apps in transition
