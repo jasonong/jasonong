@@ -1,6 +1,6 @@
 ## November 5 2012
 
-* recommended CSS categories
+* [recommended CSS categories](http://smacss.com/book/categorizing)
 * global .gitignore
 * http://smacss.com/book
 
