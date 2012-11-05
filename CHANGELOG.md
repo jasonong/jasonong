@@ -1,3 +1,8 @@
+## November 4 2012
+
+* Backbone.js for apps in transition
+* Ember.js for greenfield apps
+
 ## November 3 2012
 
 * config.log_tags (Rails config)
