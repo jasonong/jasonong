@@ -1,5 +1,7 @@
 ## November 5 2012
 
+* [width:100% +
+  box-sizing:border-box](https://github.com/twitter/bootstrap/issues/1058)
 * [campfire cheatsheet](http://cheat.errtheblog.com/s/campfire/)
 * [recommended CSS categories](http://smacss.com/book/categorizing)
 * [global .gitignore](https://help.github.com/articles/ignoring-files)
