@@ -1,5 +1,8 @@
 ## November 6 2012
 
+* cdnjs.com
+* Sammy.js
+* Sugar.js
 * Compass box-sizing mixin
 * [3 things I love to
   do](http://jasonong.tumblr.com/post/35129059751/3-things-that-i-enjoy-doing-on-a-daily-basis)
