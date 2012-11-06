@@ -1,5 +1,7 @@
 ## November 5 2012
 
+* [Capybara fill in by
+  placeholder](http://stackoverflow.com/questions/11458726/rails-spec-fill-in-using-placeholder)
 * [width:100% +
   box-sizing:border-box](https://github.com/twitter/bootstrap/issues/1058)
 * [campfire cheatsheet](http://cheat.errtheblog.com/s/campfire/)
