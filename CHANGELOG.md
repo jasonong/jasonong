@@ -1,3 +1,9 @@
+## November 6 2012
+
+* Compass box-sizing mixin
+* [3 things I love to
+  do](http://jasonong.tumblr.com/post/35129059751/3-things-that-i-enjoy-doing-on-a-daily-basis)
+
 ## November 5 2012
 
 * [Capybara fill in by
