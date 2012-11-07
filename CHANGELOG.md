@@ -1,3 +1,8 @@
+## November 7 2012
+
+* redtape gem
+* custom facebook connect button for LWF
+
 ## November 6 2012
 
 * cdnjs.com
