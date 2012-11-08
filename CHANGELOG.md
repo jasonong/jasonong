@@ -1,3 +1,8 @@
+## November 8 2012
+
+* [Adding Rails console helper
+  methods](http://opensoul.org/blog/archives/2012/11/08/add-helper-methods-to-your-rails-console/)
+
 ## November 7 2012
 
 * redtape gem
