@@ -1,3 +1,7 @@
+## November 9 2012
+
+* Inline-block elements instead of float to center them
+
 ## November 8 2012
 
 * [Adding Rails console helper
