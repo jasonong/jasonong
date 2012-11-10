@@ -22,7 +22,7 @@ I try to write good code by:
 * write tests first which helps me think through its design
 * writing succinct code that are self explanatory. [Here's an example] (https://github.com/jasonong/jasonong/tree/master/style)
 
-I enjoy building apps and have done quite a fair bit of them. You can see [all my latest works here] (http://velvetpd.info).
+I enjoy building apps and have done quite a fair bit. You can see [all my latest works here] (http://velvetpd.info).
 
 I subscribed to thoughtful conventions and enjoy using opionated frameworks that has solved the hard problems. In the course of my work, I'm trying to [log down patterns that I've discovered] (https://github.com/jasonong/Rails-Patterns). It is still a work in progress. I keep [an engineering log] (http://objectliteral.blogspot.com) too for the purpose of fast brain offloads.
 
