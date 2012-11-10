@@ -1,5 +1,6 @@
 ## November 10 2012
 
+* [Refactoring from Good to Great](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great)
 * [Backbone patterns](http://ricostacruz.com/backbone-patterns/)
 
 ## November 9 2012
