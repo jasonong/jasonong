@@ -1,3 +1,7 @@
+## November 10 2012
+
+* [Backbone patterns](http://ricostacruz.com/backbone-patterns/)
+
 ## November 9 2012
 
 * Inline-block elements instead of float to center them
