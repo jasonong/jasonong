@@ -1,5 +1,6 @@
 ## November 10 2012
 
+* Fat parameters and fat conditionals
 * [Refactoring from Good to Great](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great)
 * [Backbone patterns](http://ricostacruz.com/backbone-patterns/)
 
