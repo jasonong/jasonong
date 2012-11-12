@@ -1,3 +1,7 @@
+## November 11 2012
+
+* nvm
+
 ## November 10 2012
 
 * Fat parameters and fat conditionals
