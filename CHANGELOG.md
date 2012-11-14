@@ -1,3 +1,13 @@
+## November 14 2012
+
+* Capybara 2.0
+* TravisCI for opensource projects
+
+## November 13 2012
+
+* Closure tools
+* Famo.us
+
 ## November 11 2012
 
 * nvm
