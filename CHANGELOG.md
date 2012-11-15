@@ -1,3 +1,8 @@
+## November 15 2012
+
+* Operational Transform (OT)
+* [ShareJS](http://sharejs.org/)
+
 ## November 14 2012
 
 * Capybara 2.0
