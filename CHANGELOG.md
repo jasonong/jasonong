@@ -1,3 +1,18 @@
+## November 18 2012
+
+* [Series FF, Super F, Preferred Stock, Common Stock, Stock Options](http://blognewcomb.squarespace.com/startups/)
+
+## November 17 2012
+
+* [SEO friendly JavascriptMVC](https://developers.google.com/webmasters/ajax-crawling/docs/getting-started)
+
+## November 16 2012
+
+* Transmogrifier
+* Github pro-tips
+* Vimium
+* Live Reload
+
 ## November 15 2012
 
 * Operational Transform (OT)
