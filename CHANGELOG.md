@@ -1,3 +1,20 @@
+## November 20 2012
+
+* Array#insert
+* Array#fill
+* Array#fetch
+* Array#delete
+* Array#cycle
+* Array#clear
+* Array#assoc
+* [ 1, 2, 3 ] * ","  #=> "1,2,3"
+* ruby Array's select/reject vs take_while/drop_while
+* ruby Array#take, Array#drop
+* [Set intersection in
+  ruby](http://www.ruby-doc.org/core-1.9.3/Array.html#method-i-26)
+* [Sorting a mixed array in
+  ruby](http://stackoverflow.com/questions/8160087/how-to-sort-a-mixed-array-by-different-elements-in-ruby)
+
 ## November 19 2012
 
 * [Hashing - division, middle square, multiplication & fibonacci](http://www.brpreiss.com/books/opus8/)
