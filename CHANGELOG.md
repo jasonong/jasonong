@@ -1,5 +1,11 @@
+## November 19 2012
+
+* [Hashing - division, middle square, multiplication & fibonacci](http://www.brpreiss.com/books/opus8/)
+* Ruby Matrix stdlib
+
 ## November 18 2012
 
+* [Xiki](http://xiki.org/)
 * [Series FF, Super F, Preferred Stock, Common Stock, Stock Options](http://blognewcomb.squarespace.com/startups/)
 
 ## November 17 2012
