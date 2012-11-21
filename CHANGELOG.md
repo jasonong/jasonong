@@ -1,5 +1,7 @@
 ## November 20 2012
 
+* [What are the applications of binary trees?](http://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
+* ruby Set stdlib #difference, #union
 * [Arrays vs
   LinkedLists](http://khakimov.com/blog/2012/05/11/back-to-school-linked-list-with-ruby/)
 * Array#insert
