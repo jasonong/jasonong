@@ -1,5 +1,7 @@
 ## November 20 2012
 
+* [Arrays vs
+  LinkedLists](http://khakimov.com/blog/2012/05/11/back-to-school-linked-list-with-ruby/)
 * Array#insert
 * Array#fill
 * Array#fetch
