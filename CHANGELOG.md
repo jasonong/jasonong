@@ -1,3 +1,8 @@
+## November 22 2012
+
+* ruby 2.0's refine/using
+* global var $1 in ruby for regex
+
 ## November 20 2012
 
 * [What are the applications of binary trees?](http://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
