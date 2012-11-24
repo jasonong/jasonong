@@ -24,7 +24,7 @@ I try to write good code by:
 
 I enjoy building apps and have done quite a fair bit. You can see [all my latest works here] (http://velvetpd.info).
 
-I subscribed to thoughtful conventions and enjoy using opionated frameworks that has solved the hard problems. In the course of my work, I'm trying to [log down patterns that I've discovered] (https://github.com/jasonong/Rails-Patterns). It is still a work in progress. I keep [an engineering log] (http://objectliteral.blogspot.com) too for the purpose of fast brain offloads.
+I subscribed to thoughtful conventions and enjoy using opionated frameworks that has solved the hard problems. In the course of my work, I'm trying to [log down patterns that I've discovered] (https://github.com/jasonong/Rails-Patterns). It is still a work in progress. I keep [an engineering log] (http://objectliteral.blogspot.com) too for the purpose of fast brain offloads. [CHANGELOG](https://github.com/jasonong/CHANGELOG.md) serves as an Anti-Todo-List to remind myself of my daily personal progress.
 
 Having done project management before, my motto for dev team code contributions are,
 
