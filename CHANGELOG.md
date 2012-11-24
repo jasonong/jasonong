@@ -6,7 +6,6 @@
 * [EmberWatch](http://emberwatch.com/)
 * rsvp.js
 * Chapman stick guitar
-
 * ruby 2.0's refine/using
 * global var $1 in ruby for regex
 
