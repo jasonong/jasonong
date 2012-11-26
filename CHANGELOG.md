@@ -1,3 +1,9 @@
+## November 25 2012
+
+* [Diaspora MongoDB to MySQL migration](http://www.youtube.com/watch?v=OqBAVC9GGeI)
+* [three.js (3D)](http://www.aerotwist.com/tutorials/getting-started-with-three-js/)
+* [Node webkit agent](https://github.com/c4milo/node-webkit-agent)
+
 ## November 24 2012
 
 * has_scope gem
