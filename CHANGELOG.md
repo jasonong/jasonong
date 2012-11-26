@@ -1,4 +1,8 @@
-## November 22 2012
+## November 24 2012
+
+* has_scope gem
+
+## November 23 2012
 
 * Pivotal Labs, Thoughtbot, Carbon Five, Bocoup, Neo
 * cuba web microframework
