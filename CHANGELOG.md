@@ -4,6 +4,9 @@
 
 ## November 25 2012
 
+* [Data as boundaries](http://confreaks.com/videos/1314-rubyconf2012-boundaries)
+* Rspec-fire
+* Outside in TDD
 * [Diaspora MongoDB to MySQL migration](http://www.youtube.com/watch?v=OqBAVC9GGeI)
 * [three.js (3D)](http://www.aerotwist.com/tutorials/getting-started-with-three-js/)
 * [Node webkit agent](https://github.com/c4milo/node-webkit-agent)
