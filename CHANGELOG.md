@@ -1,3 +1,7 @@
+## November 26 2012
+
+* workflow gem (AASM)
+
 ## November 25 2012
 
 * [Diaspora MongoDB to MySQL migration](http://www.youtube.com/watch?v=OqBAVC9GGeI)
