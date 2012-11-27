@@ -1,5 +1,6 @@
 ## November 26 2012
 
+* html-pipeline gem
 * workflow gem (AASM)
 
 ## November 25 2012
