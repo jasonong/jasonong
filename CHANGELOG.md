@@ -1,5 +1,6 @@
 ## November 29 2012
 
+* jQuery.validationEngine
 * [Tips on rails internationalization and localization](http://blog.localeapp.com/2012/11/21/avoiding-the-tar-pits-of-localization-with-jeff-casimir/?utm_source=rubyweekly&utm_medium=email)
 * [rvm ruby CFLAG performance](https://github.com/wayneeseguin/rvm/issues/1240)
 * [non-breaking unicode whitespace in ruby](http://www.rubyinside.com/the-split-is-not-enough-whitespace-shenigans-for-rubyists-5980.html?utm_source=rubyweekly&utm_medium=email)
