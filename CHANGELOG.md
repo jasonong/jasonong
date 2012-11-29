@@ -1,3 +1,8 @@
+## November 29 2012
+
+* [rvm ruby CFLAG performance](https://github.com/wayneeseguin/rvm/issues/1240)
+* [non-breaking unicode whitespace in ruby](http://www.rubyinside.com/the-split-is-not-enough-whitespace-shenigans-for-rubyists-5980.html?utm_source=rubyweekly&utm_medium=email)
+
 ## November 26 2012
 
 * html-pipeline gem
