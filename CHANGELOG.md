@@ -1,3 +1,8 @@
+## November 30 2012
+
+* [Database sharding strategy (heroku)](http://www.craigkerstiens.com/2012/11/30/sharding-your-database/)
+* Repository pattern
+
 ## November 29 2012
 
 * jQuery.validationEngine
