@@ -1,3 +1,5 @@
+* Enumerable#each_with_object
+
 ## December 4 2012
 
 * [version.is](http://www.version.is/)
