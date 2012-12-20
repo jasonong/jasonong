@@ -1,3 +1,5 @@
+* callout box css
+* ruby String << (mutation) vs += (new object)
 * Enumerable#each_with_object
 
 ## December 4 2012
